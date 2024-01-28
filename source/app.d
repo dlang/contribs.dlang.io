@@ -50,5 +50,5 @@ override:
 void indexPage(HTTPServerRequest req,
 	HTTPServerResponse res)
 {
-	res.writeBody("Please refer to https://github.com/wilzbach/phobos-contribs for documentation");
+	res.writeBody("Please refer to https://github.com/dlang/contribs.dlang.io for documentation");
 }
